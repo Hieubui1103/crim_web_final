@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
   return (
-    <div className="npr-clone-container" style={{ fontFamily: 'Arial, sans-serif', background: 'black', color: '#222'}}>
+    <div className="npr-clone-container">
       {/* Header */}
       <header style={{ background: 'linear-gradient(90deg, #c00 0%, #900 100%)', borderBottom: '1px solid #a00', padding: '32px 0', width: '100%' }}>
         <div style={{ maxWidth: 1500, margin: '0 auto', display: 'flex', alignItems: 'center', justifyContent: 'space-between', boxSizing: 'border-box', width: '100%', padding: '0 24px' }}>
@@ -24,7 +24,7 @@ function App() {
       </header>
 
       {/* Main Content */}
-      <main style={{ width: '100%', maxWidth: 1000, margin: '32px 0 32px 32px', padding: '32px 0', boxSizing: 'border-box' }}>
+      <main style={{ width: '100%', maxWidth: 1500, margin: '32px auto', padding: '32px 0px', boxSizing: 'border-box' }}>
         {/* Article */}
         <article style={{ background: '#fff', padding: 32, borderRadius: 12, boxShadow: '0 2px 12px #eee', maxWidth: 800, margin: '0 auto' , textAlign: 'left'}}>
           <h1 style={{ fontSize: 32, fontWeight: 700, marginBottom: 8 ,textAlign: 'center' }}>Synthetic marijuana and mayhem: How Violence in Mexico Evolved from 2010</h1>
