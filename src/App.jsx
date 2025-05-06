@@ -48,7 +48,7 @@ function App() {
               <li>2015-2018: Further south in Mexico’s Guerrero state, the price for marijuana has dropped even lower, to around $17 a kilo, according to the Associated Press[5].</li>
             </ol>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-               <img src="crim\Picture1.png" alt="Mexican Farm-gate Marijuana Price (2010-2024)" />
+               <img src="Picture1.png" alt="Mexican Farm-gate Marijuana Price (2010-2024)" />
               <p style={{ textAlign: 'center' }}><b>Figure 0:</b> <i>Mexican Farm-gate Marijuana Price (2010-2024)</i></p>
             </div>
           </section>
@@ -57,13 +57,13 @@ function App() {
           <section style={{ marginBottom: 24 }}>
             <p>How does this marijuana trend of price prompt the increasing violence in Mexico? First of all, a report from the National System of Public Security data for Mexico [6] shows that there were 18 intentional homicides per 100,000 population in 2010. These data vary through the states, with most of them being drug-related, such as 73% in Sinaloa and about %70% in both Guerrero and Durango. (<b>Figure 1</b>)</p>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-              <img src="crim\Picture2.jpg" alt="Map of murder rate, 2010." />
+              <img src="Picture2.jpg" alt="Map of murder rate, 2010." />
               <p style={{ textAlign: 'center' }}><b>Figure 1:</b> <i>Map of murder rate, 2010. Credit: Tony Burton / Geo-Mexico.</i></p>
             </div>
             <p>Violence related to drugs regains as, according to the Global Initiative[7], in 2017, this kind of violence comprised around 24 out of 100,000 cases of murders, with 29000 victims dying from murder, rising significantly above the 2011 crime peaks. And by 2018, this number had peaked at 29 over 100,000 cases of homicides. Analysts estimate that around 50-75% of those killings were organised-crime-related, largely linked to drug-trafficking groups.</p>
             <p>Although these numbers are mostly drug-related, they usually happen in hot-spot states such as Guerrero, Michoacan, Chihuahua, or Sinaloa - places having major cannabis cultivation. As shown in the following tables, these states have around 1200 -1600 homicides reported, while it was around 2000 homicides in Guerrero, with over 70% of those murders being drug-related. (<b>Figure 2</b>): [8]</p>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-              <img src="crim\Picture3.jpg" alt="Homicide comparisons by state" />
+              <img src="Picture3.jpg" alt="Homicide comparisons by state" />
               <p style={{ textAlign: 'center' }}><b>Figure 2:</b> <i>Homicide comparisons by state, documented by the National Security Commission and Latina Consultores</i></p>
             </div>
             <p>As US legalization crushed cannabis prices, as mentioned above, cartels sought new suitable targets such as synthetic marijuana. While capable guardians, such as local police, were outgunned. The marijuana profits implicitly migrate from cannabis routes to synthetic-drug corridors and mining towns, which contributes to the increasing trend of drug-related crime and war, mostly for the money of the new product. Routine Activity: The violence just did not go away with the price - it switched and found its new victims, motivated offenders who want to get rich through marijuana or other drug-related crimes. The new profits from synthetic marijuana these cartels and criminal organizations get help them militarize, which helps them out-gun the Mexican police forces and significantly pose a threat to their people.</p>
@@ -73,7 +73,7 @@ function App() {
           <section style={{ marginBottom: 24 }}>
             <p>How does the cartel adapt to this situation? As we have mentioned above, their transition to synthetic cannabis has started over a long period. Study by the DEA [9] in 2024 National Drug Threat Assessment shows that the shift from plant-based drugs such as marijuana to synthetic and chemical-based drugs, has resulted in the most dangerous and deadly drug crisis the US has ever faced, due to the crisis that DEA is tracking in Mexico’s states Sinaloa and Jalisco. The SEDENA (Mexican Secretariat of National Defense) reports that 1658 clandestine labs have been dismantled between 2019 and 2023, with 527 alone-mostly in Sinaloa, Durango, and Michoacan, the mountain zones that once grew cannabis.[10]</p>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-              <img src="crim\image12.png" alt="The Army dismantled drug labs and seized more than 100 kg of methamphetamine in Durango and Sinaloa" />
+              <img src="image12.png" alt="The Army dismantled drug labs and seized more than 100 kg of methamphetamine in Durango and Sinaloa" />
               <p style={{ textAlign: 'center' }}><b>Figure 3:</b> <i>The Army dismantled drug labs and seized more than 100 kg of methamphetamine in Durango and Sinaloa.</i></p>
             </div>
             <p>These labs can replace the earnings of hundreds of marijuana fields, with each one requiring arm protection. These military supports all come from crime organization fundings, which push homicide hot-spots into new cities and areas, as more and more cartels split out due to the profits and having their firepower. On the other hand, cartels did not abandon their marijuana entirely; they moved up the value chain. A 2023 USTR filing notes that Mexican TCOs “produce and traffic THC oil” for the U.S. vape cartridges. The DEA tallied 192 butane‑hash‑oil (BHO) extraction labs seized in the United States in 2019 , several linked to cartel supply chains[11]. Explosions and robberies around these labs represent a new violence modality tied to cannabis concentrates. Lastly, marijuana’s price crash removed one lucrative target, but lab precursors, THC-oil plants, and extortion victims created new ones. Moreover, cartels remain the motivated offenders - they will do anything to make sure they keep up with the most potential and profitable approach, which includes every crime one can think of, even to the point of out-gunning the police. Violence migrates from one to another.</p>
@@ -83,22 +83,22 @@ function App() {
           <section style={{ marginBottom: 24 }}>
             <p>How do the states and the Mexican government address this new kind of violence? In 2006, President Felipe Calderon started a surge with around 85,000 soldiers into anti-drug operations. By 2023, President Lopez Obrador, who campaigned on “abrazos, no balazos” (“hugs, not bullets”), had around 261,600 military personnel performing public security duties, 76% more than that of Calderon’s. [12][13]</p>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-              <img src="crim\Picture6.png" alt="The militarization of Public Security in Mexico" />
+              <img src="Picture6.png" alt="The militarization of Public Security in Mexico" />
               <p style={{ textAlign: 'center' }}><b>Figure 4:</b> <i>The militarization of Public Security in Mexico (source: [12])</i></p>
             </div>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-              <img src="crim\Picture11.png" alt="" />
+              <img src="Picture11.png" alt="" />
               <p style={{ textAlign: 'center' }}><b>Figure 5:</b> <i>Graphic: military personnel deployed in public security activities and operational force status of state and municipal police. Sources: Access to information requests: National Guard 2800100042720 and 2800100004521, Annual Activities Report 2022; SEDENA 0000700116321 and 330026423000879; SEMAR 00001300080321; SESNSP 330027622000089. Government of Mexico: Annual Security Report 2020, Monthly Security Report December 2021, and Security Report August 2023. [13]</i></p>
             </div>
             <p>In June 2019, the National Guard of Mexico joined forces with 60,000 troops and grew to 133,000 troops by 2024. However, this response to organized crime has not yet been effective, as critics called this approach “civilianization in reverse”, as the homicide records still stayed near the record levels during the build-up duration. [14][15]</p>
             <p>Between December 2018 and April 2023, the army uprooted 8781 hectares of marijuana—roughly 12,000 soccer fields—while Navy units seized 29 tons of bulk cannabis in just the first four months of 2023.[16] On the synthetic front, freedom‑of‑information data obtained by Reuters show that 89 % of those facilities were already inactive when soldiers arrived.[17] In short, flashy eradication and raid tallies look impressive at morning press briefings but do little to choke off cartel profits or the violence that guards them.</p>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-              <img src="crim\Picture8.jpg" alt="President Andrés Manuel López Obrador" />
+              <img src="Picture8.jpg" alt="President Andrés Manuel López Obrador" />
               <p style={{ textAlign: 'center' }}><i>Photo: President Andrés Manuel López Obrador</i></p>
             </div>
             <p>From the government’s viewpoint, enhancing the forces to face off the militarism of the crime organization could help bring peace back, but in the end, it causes more violence than ever. The baseline of homicides is only 35% higher than that of 2010.[18] The Amnesty International organization warns that turning soldiers into street police merely facilitates human-rights violations instead of addressing the root of the problem: the cannabis trade and related crimes[19]. This led to lethal violence remaining stubbornly high, despite classic deterrence theory stating that crime should fall when punishment becomes more certain and severe.</p>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-              <img src="crim\Picture9.jpg" alt="Mexican soldiers patrol the streets" />
+              <img src="Picture9.jpg" alt="Mexican soldiers patrol the streets" />
               <p style={{ textAlign: 'center' }}><i>Photo: © Marco Rodríguez / Eyepix Group/Future Publishing via Getty Images</i></p>
             </div>
             <p>This inversion of the theory suggested that larger government troops just increase with cartel revenue, with the violence, again, merely migrating from solely brick-weed to meth labs and synthetic marijuana. If we have to say this situation in Routine-Activity terms, the state removes one lucrative target (marijuana fields) but leaves a new one (synthetic cannabis). Without parallel investments in investigation, justice, and people’s lives will risk falling even more than before, as militarisation fuels impunity rather than reducing harm.</p>
@@ -109,7 +109,7 @@ function App() {
             <p>I definitely would not survive the severe acts of violence that the transition from marijuana to synthetic cannabis involves. It is just really painful to see innocent people suffering from something they don’t even have business with. Some of them have to move out of their places, such as in 2020, 262,411 Mexicans were forced to move out of their homes as the fights between officials and cartels raged. Some places like Guerrero’s mountain villages are now empty after massive drone-dropped explosives, as families leave at night toward coastal towns where it is safer, leaving everything they have behind for their lives. [20]</p>
             <p>Moreover, with marijuana profits gone, cartels “tax” daily life. Registered extortion victims jumped from 6,895 (2018) to 10,971 (2023), a 60 % surge even as homicides plateaued. [21] Lime growers in Michoacán must pay up to 2,000 pesos (≈ US$ $118) per tonne—or watch gunmen torch their groves; prices at Mexico City markets spike accordingly.[22]</p>
             <div style={{ textAlign: 'center', margin: '16px 0' }}>
-              <img src="crim\Picture10.png" alt="Lime farmers say those who refuse to pay have been attacked by cartels" />
+              <img src="Picture10.png" alt="Lime farmers say those who refuse to pay have been attacked by cartels" />
               <p style={{ textAlign: 'center' }}><i>Lime farmers say those who refuse to pay have been attacked by cartels. (Juan José Estrada Serafín/Cuartoscuro)</i></p>
             </div>
             <p>Tortilla shops, ambulance drivers, and even schoolteachers now add the cartel “piso” to their cost of doing business, fuelling food inflation that Mexico’s central bank can barely afford. [23]</p>
